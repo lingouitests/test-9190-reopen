@@ -1,1 +1,0 @@
-figma/locales/pl/translation.json
