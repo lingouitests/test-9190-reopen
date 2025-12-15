@@ -1,0 +1,3 @@
+figma/locales/fr/translation.json
+figma/locales/es/translation.json
+figma/locales/cs/translation.json
